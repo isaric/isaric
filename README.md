@@ -7,9 +7,11 @@ Backend & DevOps Specialist | Java, Spring, Microservices, CI/CD, Cloud | Passio
 
 ## 🚀 About Me
 
-With over 8 years of professional experience, I specialize in backend software development and DevOps. My career has taken me from hands-on coding and mentoring at ecx.io (an IBM Company), to architectural leadership at Rinels and Digacon, impactful microservices work at Infobip, and independent consulting with Path Variable LLC. I’ve also contributed as a Full Stack Engineer at TripAdvisor, and currently drive backend innovation as a Senior Software Engineer at Revolut, focusing on expansion into new markets.
+With over 9 years of professional experience, I specialize in backend software development and DevOps. My career has taken me from hands-on coding and mentoring at ecx.io (an IBM Company), to architectural leadership at Rinels and Digacon, impactful microservices work at Infobip, and independent consulting with Path Variable LLC. I’ve also contributed as a Full Stack Engineer at TripAdvisor, and currently drive backend innovation as a Senior Software Engineer at Revolut, focusing on expansion into new markets.
 
-I am passionate about sharing knowledge and engaging with the tech community through public speaking. I have delivered talks at renowned industry events, including two sessions at JavaCro 2024 and a presentation at the London Java Community Meetups in 2025. This June, I am excited to speak at Open South Code 2025. My talks focus on a range of software engineering topics, reflecting my commitment to continuous learning, community involvement, and advancing best practices in the field.
+I am passionate about sharing knowledge and engaging with the tech community through public speaking. I have delivered talks at renowned industry events, including two sessions at JavaCro 2024, a presentation at the London Java Community Meetups in February and a talk at Open South Code 2025 this June. I am excited to speak at DevConf in Lodz, Poland in early October. My talks focus on a range of software engineering topics, reflecting my commitment to continuous learning, community involvement, and advancing best practices in the field.
+
+For more information about my conference talks, including how to invite me to your event please check out my [Sessionize profile](https://sessionize.com/isaric).
 
 ---
 
@@ -48,8 +50,8 @@ I am passionate about sharing knowledge and engaging with the tech community thr
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/isaric-cro)
-<!-- Add more links if you wish, e.g. personal website, Twitter, etc. -->
-
+- [Sessionize](https://sessionize.com/isaric/)
+- [My Blog](https://blog.path-variable.com)
 ---
 ## Quotes On Teamwork
 
