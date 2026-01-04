@@ -58,7 +58,3 @@ For more information about my conference talks, including how to invite me to yo
 > “Great software is built by great teams, not just great individuals.”
  
 > “The high performing teams were the ones with greatest psychological safety.”
-
----
-
-![isaric GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaric&theme=dark&langs_count=6)
