@@ -38,6 +38,13 @@ For more information about my conference talks, including how to invite me to yo
 
 ---
 
+## 🏛️ Professional Memberships
+
+- **IEEE (Institute of Electrical and Electronics Engineers):** Member since 2016
+- **ACM (Association for Computing Machinery):** Member since 2016
+
+---
+
 ## 🌱 What I Value
 
 - Building reliable, scalable systems
